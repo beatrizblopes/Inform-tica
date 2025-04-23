@@ -14,7 +14,7 @@ Trabalhos desenvolvidos na Fatec
 ![image](https://github.com/user-attachments/assets/5175c1bc-7a5a-428f-99c0-56422ae50d3f)
 
 
-5° Atividade: Usando fórmulas e dados abertos - Queimadas no Power Bi: link: https://fatecspgov-my.sharepoint.com/:x:/r/personal/beatriz_lopes14_fatec_sp_gov_br/Documents/Co%CC%81pia%20de%20Relatorio_Incendios_Regioes.xlsx?d=wb28e897073dc46beae47eb80f6570b9e&csf=1&web=1&e=j9Uf0h
+5° Atividade: Usando fórmulas e dados abertos - Queimadas no Power Bi: link: https://app.powerbi.com/links/CzF9D7SElr?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare 
 
 Antes:
 
