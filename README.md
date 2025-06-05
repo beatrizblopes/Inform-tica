@@ -31,5 +31,13 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/beatriz_lopes14_fatec_sp_gov
 
 7° Gráfico de Panelas e Sorvetes
 https://fatecspgov-my.sharepoint.com/:x:/r/personal/beatriz_lopes14_fatec_sp_gov_br/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B3a9f0528-2cba-4d0c-95d3-c6865447e812%7D&wdOrigin=TEAMS-WEB.p2p_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1748902049918&web=1
+![image](https://github.com/user-attachments/assets/2a54d6d5-e99a-4c35-9ab7-0ee754c88453)
+
+
+8° Atividades: Computadores e Sandálias
+https://fatecspgov-my.sharepoint.com/:x:/r/personal/beatriz_lopes14_fatec_sp_gov_br/Documents/Graf_K_sandalias_computador%201.xlsx?d=wdb53e2d6166348b69493888bd097382d&csf=1&web=1&e=dTxqpf
+![image](https://github.com/user-attachments/assets/6192f426-ab63-43fc-a60d-86c348f2d3a9)
+
+
 
 
