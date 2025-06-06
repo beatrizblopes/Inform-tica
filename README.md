@@ -28,6 +28,8 @@ Depois:
 6° Atividade Regressão Linear
 https://colab.research.google.com/drive/1xB5eTPryhbarrKBsCYZ0IbwwNX3frO0V?usp=sharing
 https://fatecspgov-my.sharepoint.com/:x:/r/personal/beatriz_lopes14_fatec_sp_gov_br/Documents/Planilha%20de%20informatica%20Beatriz.xlsx?d=w8011b0aae6ba4cabac9a6aa7f3b6eabc&csf=1&web=1&e=OyNanb
+![image](https://github.com/user-attachments/assets/0ad8a826-4a48-40a3-b5a4-783b0c4b0aae)
+
 
 7° Gráfico de Panelas e Sorvetes
 https://fatecspgov-my.sharepoint.com/:x:/r/personal/beatriz_lopes14_fatec_sp_gov_br/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B3a9f0528-2cba-4d0c-95d3-c6865447e812%7D&wdOrigin=TEAMS-WEB.p2p_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1748902049918&web=1
