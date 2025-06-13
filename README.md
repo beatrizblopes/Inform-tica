@@ -41,6 +41,7 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/beatriz_lopes14_fatec_sp_gov
 ![image](https://github.com/user-attachments/assets/6192f426-ab63-43fc-a60d-86c348f2d3a9)
 
 9° Atividade: Power Automate e Power Apps
+
 ![image](https://github.com/user-attachments/assets/824a690f-8490-4caa-a11e-c8c7bf736f1a)
 
 
