@@ -1,6 +1,9 @@
 # Informática
-Trabalhos desenvolvidos na Fatec
-1° Atividade: Apresentação Pessoal em Grupo. Segue link: ![image](https://github.com/user-attachments/assets/3e358db6-5d98-48d1-aa3f-5fbd6dbb3392) [(file:///C:/Users/beatriz.lopes/Downloads/Apresenta%C3%A7%C3%A3o%20hist%C3%B3ria%20sobre%20guerra%20fotogr%C3%A1fico%20moderno%20marrom%20bege_20250320_204040_0000_compressed.pdf)](https://fatecspgov-my.sharepoint.com/:b:/g/personal/beatriz_lopes14_fatec_sp_gov_br/EVbLYVMZpxlJoCyzuaekM3kBdIGfzAg7iInvBYv_wwhGOA?e=fqs1Kw)
+Trabalhos desenvolvidos na Fatec, na aula de Informática 1º Semestre de Gestão da Produção Industrial.
+
+1° Atividade: Apresentação Pessoal em Grupo. Segue link:
+
+![image](https://github.com/user-attachments/assets/3e358db6-5d98-48d1-aa3f-5fbd6dbb3392) [(file:///C:/Users/beatriz.lopes/Downloads/Apresenta%C3%A7%C3%A3o%20hist%C3%B3ria%20sobre%20guerra%20fotogr%C3%A1fico%20moderno%20marrom%20bege_20250320_204040_0000_compressed.pdf)](https://fatecspgov-my.sharepoint.com/:b:/g/personal/beatriz_lopes14_fatec_sp_gov_br/EVbLYVMZpxlJoCyzuaekM3kBdIGfzAg7iInvBYv_wwhGOA?e=fqs1Kw)
 
 2º Atividade: Usando fórmulas e dados abertos. Segue o link: https://fatecspgov.sharepoint.com/:x:/r/sites/Section_INF168.A753.N.077.146.20251/_layouts/15/Doc.aspx?sourcedoc=%7B12324DD9-67BE-4C90-9627-5D7CBE375FEB%7D&file=arquivo.xlsx&action=default&mobileredirect=true&wdOrigin=TEAMS-ASSIGN-CLIENT.ASSIGN-STUD-VIEW.STUD 
 ![image](https://github.com/user-attachments/assets/5ef39808-fbdd-4d64-9bfe-f65ab3015ec2)
@@ -10,11 +13,11 @@ Trabalhos desenvolvidos na Fatec
 
 
 
-4° Atividade: Usando fórmulas e dados abertos - Queimadas:link: https://fatecspgov-my.sharepoint.com/:x:/r/personal/beatriz_lopes14_fatec_sp_gov_br/Documents/Co%CC%81pia%20de%20Relatorio_Incendios_Regioes.xlsx?d=wb28e897073dc46beae47eb80f6570b9e&csf=1&web=1&e=j9Uf0h !
+4° Atividade: Usando fórmulas e dados abertos - Queimadas - link: https://fatecspgov-my.sharepoint.com/:x:/r/personal/beatriz_lopes14_fatec_sp_gov_br/Documents/Co%CC%81pia%20de%20Relatorio_Incendios_Regioes.xlsx?d=wb28e897073dc46beae47eb80f6570b9e&csf=1&web=1&e=j9Uf0h !
 ![image](https://github.com/user-attachments/assets/5175c1bc-7a5a-428f-99c0-56422ae50d3f)
 
 
-5° Atividade: Usando fórmulas e dados abertos - Queimadas no Power Bi: link: https://app.powerbi.com/links/CzF9D7SElr?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare 
+5° Atividade: Usando fórmulas e dados abertos - Queimadas no Power Bi - link: https://app.powerbi.com/links/CzF9D7SElr?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare 
 
 Antes:
 
@@ -25,26 +28,31 @@ Depois:
 
 ![image](https://github.com/user-attachments/assets/2c267079-1258-455a-8b2d-f835ae578ff8)
 
-6° Atividade Regressão Linear
+6° Atividade:Regressão Linear
 https://colab.research.google.com/drive/1xB5eTPryhbarrKBsCYZ0IbwwNX3frO0V?usp=sharing
 https://fatecspgov-my.sharepoint.com/:x:/r/personal/beatriz_lopes14_fatec_sp_gov_br/Documents/Planilha%20de%20informatica%20Beatriz.xlsx?d=w8011b0aae6ba4cabac9a6aa7f3b6eabc&csf=1&web=1&e=OyNanb
 ![image](https://github.com/user-attachments/assets/0ad8a826-4a48-40a3-b5a4-783b0c4b0aae)
 
 
-7° Gráfico de Panelas e Sorvetes
+7° Atividade:Gráfico de Panelas e Sorvetes
 https://fatecspgov-my.sharepoint.com/:x:/r/personal/beatriz_lopes14_fatec_sp_gov_br/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B3a9f0528-2cba-4d0c-95d3-c6865447e812%7D&wdOrigin=TEAMS-WEB.p2p_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1748902049918&web=1
 ![image](https://github.com/user-attachments/assets/2a54d6d5-e99a-4c35-9ab7-0ee754c88453)
 
 
-8° Atividades: Computadores e Sandálias
+8° Atividade: Computadores e Sandálias
 https://fatecspgov-my.sharepoint.com/:x:/r/personal/beatriz_lopes14_fatec_sp_gov_br/Documents/Graf_K_sandalias_computador%201.xlsx?d=wdb53e2d6166348b69493888bd097382d&csf=1&web=1&e=dTxqpf
 ![image](https://github.com/user-attachments/assets/6192f426-ab63-43fc-a60d-86c348f2d3a9)
 
-9° Atividade: Power Automate e Power Apps
+9° Atividade:Power Automate e Power Apps
 
 https://github.com/user-attachments/assets/840faadf-1174-4e94-b05c-73ec391e1e24
 
 ![image](https://github.com/user-attachments/assets/824a690f-8490-4caa-a11e-c8c7bf736f1a)
+
+10° Atividade:
+Prova Avaliativa - Final do Semestre:
+
+![image](https://github.com/user-attachments/assets/2c756373-d688-486a-a08f-aee778c5986f)
 
 
 
